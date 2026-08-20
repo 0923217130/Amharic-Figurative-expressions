@@ -1,0 +1,624 @@
+Sentence,label,label_id
+ምድር ለቀቀ,Idiom,0
+የኃይል አቅርቦት ይፈልጋል,Literal ,1
+ገንዘብ ቀረጠኝ,Idiom,0
+ግብረ ሰዶም,Idiom,0
+ለአህያ ማር አይጥማትም,Proverb,2
+መንገድ,Literal ,1
+ስራም አይዝ,Literal ,1
+በእጅ ያለ ወርቅ አንደ መዳብ ነው,Proverb,2
+ዘመደ ብዙ ጠላው ቀጭን ነው,Proverb,2
+ምነው እናቴ እንቁላል ስሰርቅ በቀጣችኝ,Proverb,2
+ዳዊት ደጋሚ ነው,Idiom,0
+ልቤ ተሰቀለ,Idiom,0
+የአይሁድ ፋሲካ ነበር,Literal ,1
+ወንድ እና ሴቱ ይለያል,Idiom,0
+ከፍትፊቱ ፊቱ,Idiom,0
+ወተቱ ሸፈተ,Idiom,0
+ዶሮ ብታልም ጥሬዋን,Proverb,2
+ዓለም የሚለውጥ,Literal ,1
+ያጥንት ፍላጭ የስጋ ቁራጭ,Proverb,2
+ጸሀይ የጧት አዱኛ የሽበት,Proverb,2
+ንዳድ,Idiom,0
+በትምህርት ሚኒስቴር,Literal ,1
+አድማ መታ,Idiom,0
+ስም እንዳለው,Idiom,0
+ሰይጣኔ መጣ,Idiom,0
+ውለታ ሲደምር,Literal ,1
+ሲሮጡ ያሰሩት,Idiom,0
+አንገቱን ሰበረ,Idiom,0
+ተማጽናለች,Literal ,1
+ውሀና ገደል እያሳሳቀ ይወስዳል,Proverb,2
+አጥንተ ጥሩ,Idiom,0
+ለሰው ብሎ ሲያማ ለኔ ብለህ ስማ,Proverb,2
+ልቅም ያለች,Idiom,0
+እጁን ሰነዘረ,Idiom,0
+ዋንጫ ልቅለቃ,Idiom,0
+ቅሬታ ገባው,Idiom,0
+ልበ ጥኑ,Idiom,0
+ጥበብ,Literal ,1
+ኮምፒዉተር ሳይንስ,Literal ,1
+የዕብድ ገላጋይ ድንጋይ ያቀብላል,Proverb,2
+ከሰው መርጦ ለሹመት ከእንጨት መርጦ ለታቦት,Proverb,2
+ደካማ ጎን,Literal ,1
+አገር ቂጥ,Idiom,0
+አትጫኑት,Literal ,1
+ለውሻ ሞት ፊት አይነጩለትም,Proverb,2
+እራሴን ይከሰክሰኛል,Idiom,0
+የአርባ ቀን ዕድሉ ነው,Idiom,0
+ቸክ አለ,Idiom,0
+ታላቅ ወንድም እንደ አባት ይቆጠራል,Proverb,2
+ቀርበታ ሆድ,Idiom,0
+ደረጃ,Literal ,1
+ቀልበ ጮሬ,Idiom,0
+ምግቡን ውሻ ለከፈው,Idiom,0
+ጎህ ቀደደ,Idiom,0
+ሀገራዊ እቅድ,Literal ,1
+እንጀራ ሳበው,Idiom,0
+አድርጎኛል,Literal ,1
+ቅመው መርቅነው የሚቃዡ,Literal ,1
+ያልተፈተሹ ባህሪያት,Literal ,1
+የመደወላቡ ዩኒቨርሲቲ,Literal ,1
+አፈር ገፊ,Idiom,0
+ድሀ በጉልበቱ ባለጸጋ በከብቱ,Proverb,2
+በእንቅልፍ ልብ,Idiom,0
+ባለጌን ተነስ አይሉትም,Proverb,2
+የተቋሙ ሰራተኛ,Literal ,1
+ነገር ከፊቱ ዱቄት ከወንፊቱ,Proverb,2
+በደነዙ አረደኝ,Idiom,0
+ጥቁር ዉሻ ውለድ,Idiom,0
+ልቡን ከፈተለት,Idiom,0
+ሙት አማጣኝ,Idiom,0
+ማሸነፍ አንችልም,Literal ,1
+አይኑ ጠፋ,Idiom,0
+አሳዳጅን በማሳደድ,Literal ,1
+ውል ያዋውላል ታንኳ ያሻግራል,Proverb,2
+ኬንያ ካደረገው,Literal ,1
+ላም ባልዋለበት ኩበት ለቀማ,Proverb,2
+ድሀ ሲናገር ሬት ኮሶ ሀብታም ሲናገር የማር በሶ,Proverb,2
+የቤት እቃ,Literal ,1
+ገደ ቢስ,Idiom,0
+በአንገቴ ልታረድ አለ,Idiom,0
+በሽታውን የደበቀ መድህኒት አይገኝለትም,Proverb,2
+ነቅሼ አላውቅም,Literal ,1
+ሁሉ አማረሽ,Idiom,0
+ምንም ጠብ አይለውም,Idiom,0
+ጤፍ መፍሰስሽን ቢያይ ገበሬ ባልዘራሽ,Proverb,2
+እፍን እፍን ትወዳለች,Idiom,0
+በቅንነት መፍትሔ ይፈልጋሉ,Literal ,1
+ነፃ የሚያዎጣህ እዉቀትህ ነው,Literal ,1
+ራሱን ነቀነቀ,Idiom,0
+ቃሪያ ጥፊ,Idiom,0
+እናቱ የሞተችበትና ገበያ የሄደችበት እኩል አለቀሱ,Proverb,2
+ጠጉር ስንጠቃ,Idiom,0
+በሬ ሆይ በሬ ሆይ ሞኙ በሬ ሆይ ሳሩን አየህና ገደሉን ሳታይ እልም ካለው ገደል,Proverb,2
+ኮሌጅ,Literal ,1
+የሰው ክፋት,Literal ,1
+ቀፎእ የቀረ,Idiom,0
+ግልባጭ አስገብተን ነበር,Literal ,1
+ከሰጠሽ ስጪኝ ካልፈለግሽ ፈግጪው ተቀምጠሽበት ከምትደፈጥጪው,Proverb,2
+ትዳሩን አሸነፈ,Idiom,0
+እረፍት መውሰድ,Literal ,1
+ሰንደቅ ኣላማ አላቸው,Literal ,1
+ሾላ በድፍን,Proverb,2
+መከራ ሸመተ,Idiom,0
+ጸሀይ ያየውን ሰው ሳያየው አይቀርም,Proverb,2
+ጥርሴስ ልማዱ ነው አይኔን አታስቂው,Proverb,2
+ልብ አጣ,Idiom,0
+እርግጠኛ ነኝ,Literal ,1
+ውሸታሞች ናችሁ,Literal ,1
+ደስ ብሎት,Literal ,1
+ባዝራዋ ተመታች,Idiom,0
+ዘርዝሬ,Literal ,1
+ተሌባ ሌባ ቢሰርቀው ምን ይደንቀው,Proverb,2
+መስቀለኛ ጥያቄ,Idiom,0
+ደን ጥበቃ,Literal ,1
+አስብቶ አራጅ,Idiom,0
+ነገር ከእብድ ይገኛል,Proverb,2
+መርከቦችን አጠቃለሁ ብሏል,Literal ,1
+ቤተሰባዊ ምስቅልቅልን ወለደ,Literal ,1
+ነጠላ ለብሰው,Literal ,1
+ቸር ተመኝ ቸር እንድታገኝ,Proverb,2
+ዉሀ ቀጠነ,Idiom,0
+ውሸቱን ላፈው,Idiom,0
+ልትሰራ ሂዳ ተላጭታ መጣች,Proverb,2
+ቅርብ ለቅርብ,Idiom,0
+ይእመጣው ቢመጣ,Idiom,0
+ድመትና አይጥ እሳትና ጭድ,Proverb,2
+የአመት ልብስ የቀን ቁርስ,Idiom,0
+ልቡ ራሰ,Idiom,0
+ከኔ በላይ አጉራሽ ማድ አበላሽ,Idiom,0
+አንገቷን ተወቀረች,Idiom,0
+ፍርድ ለልጅ ጥራቢ ለደጅ,Proverb,2
+ልቡን ሰለበው,Idiom,0
+የተኳለ የተዳረ,Idiom,0
+የቁርዓን ውድድር,Literal ,1
+መሆን አይችልም,Literal ,1
+የአሳ ግማቱ ከወደ አናቱ,Proverb,2
+አቋቋሚኝ,Idiom,0
+ያበደና የወደደ አንድ ነው,Proverb,2
+የመንገድ ዳር እሽት ባል የሌላት ሴት ለማንም ናት,Proverb,2
+ስልጠና,Literal ,1
+ድንጋይ ቢያጎኗት ተመልሳ ካናት,Proverb,2
+የመተርጎም መብት አለው,Literal ,1
+በህይወት ዉስጥ,Literal ,1
+በንዴት ሆዱ ነፈረ,Idiom,0
+ውትፍትፍ ስራ,Idiom,0
+እጥር ምጥን አለ,Idiom,0
+በአንጅ እጅ ማጨብጨብ,Idiom,0
+የሰው ምሰሶ,Idiom,0
+ታሪክ እንስራ,Literal ,1
+ውሻ በቀደደው ጅብ ይገባል,Proverb,2
+መከልከል,Literal ,1
+ነፍስ አወቀ,Idiom,0
+አፍ ሲነድ ሆድ ይነድ,Proverb,2
+አይጥ ሞቷን ስትሻ ሄዳ ታሸታለች የድመት አፍንጫ,Proverb,2
+ስራ ላይ,Literal ,1
+በፍጹም ግን ከመጠየቅ አናርፍም,Literal ,1
+ጫማ የለኝም ብለህ አትዘን እግር የሌለው አለና,Proverb,2
+ነግ በእኔ,Idiom,0
+ታረሰች,Idiom,0
+ሰው ለየ,Idiom,0
+ውለታ ቢስ,Idiom,0
+በሌላው ጫማ መሆን,Literal ,1
+የሚሰጠን እረጅም ሰልፍ ነው,Literal ,1
+የማየት ችግር,Literal ,1
+ሞራሉም,Literal ,1
+አለቻት,Literal ,1
+ምኵራብ,Literal ,1
+አውቆ የተኛን ቢቀሰቅሱት አይሰማም,Proverb,2
+ቂጥ ለቂጥ ገጠመ,Idiom,0
+ለማስፋፋት የተከፈተ ነው,Literal ,1
+ያዘወትሩ ነበር,Literal ,1
+ለተቀማጭ ሰማይ ቅርቡ ነው,Proverb,2
+ልቡ ቀና,Idiom,0
+ጥርሴን ነዘነዘኝ,Idiom,0
+ነብር ሳይገድል ቆዳውን ያስማማል,Proverb,2
+ኮከብ ቆጣሪ,Idiom,0
+ልቡ ቆሰለ,Idiom,0
+ተማሪን የሚያሳብዱ,Literal ,1
+አባይ ባንክ,Literal ,1
+መዳራት ጀመረ,Idiom,0
+ስራ ፍላጊ,Literal ,1
+እርም የሰው ስጋ,Idiom,0
+አእምሮ ጥሩ አይደለም,Literal ,1
+ሀገር ስላም,Literal ,1
+ቅጥ ያጣ,Idiom,0
+ዳቦ ያለቅርፊት ጠላ ያለ ምርጊት,Proverb,2
+ነገር በዋስ እህል በነፋስ,Proverb,2
+እጅ ከልብስ ምላስ ከጥርስ,Proverb,2
+ዘጠኝም ቢታለብ ለኔ ያው ገሌ ነው,Proverb,2
+አቡነ ሄኖክ,Literal ,1
+ስም አይጠሩ,Idiom,0
+ለከት የሌለው,Idiom,0
+በአቋራጭ የተሻለ ቦታ መድረስ ነው,Literal ,1
+ሩቅ አገር,Idiom,0
+የላጭን ልጅ ቅማል በላት,Proverb,2
+የዚህ ዓመት ዓመታዊ ክፍያ,Literal ,1
+ሲያቀርብ ቆይቷል,Literal ,1
+ፌስቡክ,Literal ,1
+የመማር ማስተማሩን ሂደት,Literal ,1
+ሆዳቸው አምላካቸው ነው,Literal ,1
+ስንዝር ሲሰጡት ጋት,Proverb,2
+የእንጀራ ገመዱ ተበጠሰ,Idiom,0
+ሀሰተኛ ምስክር ጉልበት ይሰብር,Proverb,2
+ኑሮ ካሉት መቃብር ይሞቃል,Proverb,2
+የእንቧይ ካብ,Idiom,0
+ጉራውን ነዛ,Idiom,0
+ጎመን በጤና አለ,Idiom,0
+ምናምንቴ,Idiom,0
+ክርና መርፌ ሰንደዶና ወስፌ,Proverb,2
+አፈር ቃም,Idiom,0
+ቀበሌ አስተዳደር,Literal ,1
+ጥዶ ዘለል,Idiom,0
+የኢትዮጵያ ምንጮች,Literal ,1
+ጨረቃ ምድር ያዘች,Idiom,0
+ዝናብ ሊጥል ሲል ይነፋፍሳል,Proverb,2
+ለግላቸው የፖለቲካ ትርፍ,Literal ,1
+ካልታዘልኩ አላምንም አለች ሙሽራ,Proverb,2
+ሁለት የወደደ አንዱን ሳያገኝ ሄደ,Proverb,2
+ዳዊቱን ለበለበው,Idiom,0
+ዘር የጣቱ ምድሩ ያባቱ,Proverb,2
+ምክንያት በማድረግ,Literal ,1
+የሰይጣን ቁራጭ,Idiom,0
+ጥቂት አመታት,Literal ,1
+የፍላጎት እና ምርት,Literal ,1
+የጦር ምሰሶ,Idiom,0
+በፍጥነት እንዲወገዱ,Literal ,1
+በቀኝ ጎን ተነሳ,Idiom,0
+መንግስት የሚያደርገዉ,Literal ,1
+ስብከት እና ቡራኬም ነበር,Literal ,1
+ራስ ምታት,Idiom,0
+ጭንቀት ላይ የሚጥል ሁኔታ,Literal ,1
+የማይሰማ ጆሮ ከጎረቤት ያጣላል,Proverb,2
+መሬት ላይ የተቆፈረ,Literal ,1
+በከፍተኛ ትምህርት ተቋማት,Literal ,1
+የጂብ ችኩል ቀንድ ይነክሳል,Proverb,2
+ቀብሮ አቆየ,Idiom,0
+የቁልቁሊት ውረድ,Idiom,0
+የድፖርትመንት ተወካዮች,Literal ,1
+የልህቀት ማእከላት,Literal ,1
+የረጋ ውሃ ይከረፋል,Proverb,2
+ለአይን ሞላ,Idiom,0
+ስላቅ አይሆንም,Literal ,1
+ደስ ይላል በርቱ,Literal ,1
+የወንድምህ ጢም ሲላጭ ጢምህን ውሀ አርስ,Proverb,2
+ምስጢር አፈሳ ሆነ,Idiom,0
+በሽምግልና ወቅት,Literal ,1
+ትንኝ,Literal ,1
+አሳ ግማት ካናቱ,Proverb,2
+የነ ቶሎ ቶሎ ቤት ግድግዳው ሰንበሌጥ,Proverb,2
+ከልቡ ተናገረ,Idiom,0
+ሰላም ጤና ይስጥልን,Literal ,1
+ሰዶ ማሳደድ,Idiom,0
+የቀበጠች አይጥ የድመትን አፍንጫ ታሽታለች,Proverb,2
+ግምባሩ ተሸበሸበ,Idiom,0
+የጦርነት ሰለባ,Literal ,1
+እከኩን አራገፈ,Idiom,0
+እንጀራ በሬው,Idiom,0
+የተመረጣችሁ  መምህራን,Literal ,1
+ጦር ከወጋው ምላስ የወጋው,Proverb,2
+የእናት ድሀ የለውም,Proverb,2
+ሰውና እንጨት ተሰባሪ ነው,Proverb,2
+ነጭ ድሀ ነጭ ማር ይከፍላል,Proverb,2
+ጥቅም የሌላቸው,Literal ,1
+ሞኝ ከአራጁ ይውላል,Idiom,0
+ጡት አስጣይ,Idiom,0
+ምሽት ላይ,Literal ,1
+ብናከብርስ ምን ይላችኋል,Literal ,1
+ዳኛ ሲገኝ ተናገር ውሀ ሲጠራ ተሻገር,Proverb,2
+ጆሮ ለባለቤቱ ባዳ ነው,Proverb,2
+መመረቂያ ጽሁፍ,Literal ,1
+ጋን በጠጠር ይደገፋል,Proverb,2
+ፍላጎቱን ተወጣ,Idiom,0
+ሀገሬን ላሳያችሁ,Literal ,1
+ቢሮን ተቆጣጥረዋል,Literal ,1
+ማንኛዉም ቋንቋ ይችላል,Literal ,1
+ነገር በምሳሌ ጠጅ በብርሌ,Proverb,2
+እየተሸጠ ያለው ነገር,Literal ,1
+ሩቅ ሀገር,Literal ,1
+አቃቤ ሰአት,Idiom,0
+የቅናት ስሜት,Literal ,1
+መጀመሪያ ደረጃ,Literal ,1
+እንዲያዉም አላቻዋ አገባችው,Literal ,1
+ደም ነኝ,Idiom,0
+ክህሎት ስልጠና,Literal ,1
+የአሰብ ወደብ,Literal ,1
+ሰላም,Literal ,1
+ከከፍተኛ ትምህርት ተቋማት,Literal ,1
+ወደ ጮቄ ተራራዬ,Literal ,1
+ሰነፍ እረኛ ከሩቅ ይመልሳል,Proverb,2
+ነጣውን ሄደ,Idiom,0
+ሴራ ሆነ,Idiom,0
+አፈር መስሏል,Idiom,0
+እድሜው ቀጠለ,Idiom,0
+እንኳን ለገንፎ ለሙቅም አልደነግጥ,Proverb,2
+ሀገራዊ ሀላፊነት,Literal ,1
+ጣት ይጠባል,Idiom,0
+እጅ አደረገ,Idiom,0
+ጠላ ባለቤቱን አያውቅም,Proverb,2
+ሳይቸግር ጤፍ ብድር,Proverb,2
+ሰምና ወርቅ,Idiom,0
+አዋሳኝ ቀበሌዎች,Literal ,1
+አጥብቆ ጠያቂ የናቱን ሞት ይረዳል,Proverb,2
+የላጭን ልጅ ቅማል በላው,Proverb,2
+ባቄላ አለቀ ቢሉ ፈስ ቀለለ,Proverb,2
+ልጅና ወረቀት የያዘውን አይለቅም,Proverb,2
+ራሱን አወጣ,Idiom,0
+ሰከን በሉ በሏቸው,Literal ,1
+የሰው ስጋ አታኝክ,Idiom,0
+ቢከፍቱ ተልባ,Idiom,0
+ቁም ስቃይ,Idiom,0
+ዘመድና ገንዘብ ሳያስቡት ይገኛል,Proverb,2
+ዘገየች ከረመች ቆይታ መጣች,Proverb,2
+የኢትዮጵያ ታሪክ,Literal ,1
+የቤት ስራ,Idiom,0
+ቀለም አገባ,Idiom,0
+ማደር አይገባም,Literal ,1
+መተኛት አለበት,Literal ,1
+አሳበ ሩቅ,Idiom,0
+ልቡ ቀረ,Idiom,0
+ነገርና ገመድ አለውሉ አይፈታም,Proverb,2
+ጥሬ ቃል,Idiom,0
+የመስቀል ወፍ,Idiom,0
+አቅመ ሄዋን,Idiom,0
+ጌታዋን የተማመነች በግ ላቷን ውጭ ታሳድራለች,Proverb,2
+ከርሞ ጥጃ አድሮ ቃሪያ ታጥቦ ጭቃ,Proverb,2
+መዶሻ ልክ ነው,Literal ,1
+በቁሙ ሞተ,Idiom,0
+ስልጠናዎች,Literal ,1
+ሳታገባ ቀረች,Literal ,1
+ራሱን ሰወረ,Idiom,0
+ትኩረት ማድረግ,Literal ,1
+የልብ አውቃ,Idiom,0
+ህልሙን ያሳካ,Literal ,1
+አንገተ ወፍራም,Idiom,0
+ልበ ድንጋይ,Idiom,0
+እንኳን ዘንቦብሽ እንዲያውም ጤዛ ነሽ,Idiom,0
+ደብረ ወርቅ,Literal ,1
+ሌላ ነዉ,Literal ,1
+በሰፈሩት ቁና መሰፈር አይቀርም,Proverb,2
+ባለቅልጥም,Idiom,0
+የወንድ አጭር ዝንጀሮ የሴት አጭር ወይዘሮ,Proverb,2
+በእለቱ አስታውቆ ነበር,Literal ,1
+ፍርድ አያውቅ ዳና ተገን አያውቅ እረኛ,Proverb,2
+የሴት አለሌ,Idiom,0
+ድላችን በተባበረ ክንዳችን,Literal ,1
+የመጽሀፍ ቀበኛ,Proverb,2
+ደም ተቃባ,Idiom,0
+ራስ ተስሞ,Idiom,0
+ቅመማ ቅመም,Literal ,1
+የእሳትነት ዕድሜ,Literal ,1
+መንግስታዊ ሽብርተኝነት,Literal ,1
+ምንም አልመሰለኝም,Literal ,1
+መንገድ,Literal ,1
+የወንድም ልጅ ባይወልዱትም ልጅ,Proverb,2
+ሳይሳካ ቀረ,Idiom,0
+ጥቁር እንግዳ,Idiom,0
+ሰው በመሰል ይሞታል,Idiom,0
+መታፈር በከንፈር,Idiom,0
+መኖሪያ ቤት,Literal ,1
+ግብር ከፋይ,Literal ,1
+ፈረስ ያደርሳል እንጂ አይዋጋም,Proverb,2
+የሰይጣን ነገረ,Idiom,0
+እዬዬም ሲዳላ ነው,Proverb,2
+ወንደ ላጤ,Idiom,0
+ሞልጮኝ ሄደ,Idiom,0
+አዛኝ ቅቤ አንጓች,Proverb,2
+ቂምህን አትርሳ የወደቀን አንሳ,Proverb,2
+በሰላም ይጠብቅልን,Literal ,1
+ደሟ ፍልቅ ያለች ናት,Idiom,0
+ዘበኛ ነበር,Literal ,1
+ትቀናናላቹ,Literal ,1
+የስራ ማመልከቻ,Literal ,1
+ማእዱን አማገጠ,Idiom,0
+አመድ አፋሽ,Idiom,0
+ምን አስቸኮለን,Literal ,1
+ዘላለማዊ ፍቅር,Literal ,1
+እሾህ አፍ,Idiom,0
+የኑሮ ዘይቤ,Literal ,1
+በችግር ላይ መሆናቸውን,Literal ,1
+መልክ ታጥቦ አይጠጣ,Proverb,2
+መንገድ ካገር ልጅ ምክር ከጨዋ ልጅ,Proverb,2
+የሴትን ብልሀት የጉንዳንን ጉልበት ይስጥህ,Proverb,2
+ክፍል አንድ,Literal ,1
+እጅና አፍ አይተጣጣም,Proverb,2
+ክብሩንም ተቀማ,Literal ,1
+ቤተ ሙከራ,Literal ,1
+ቤተሰብ ይሁኑ,Literal ,1
+ራሱ ጠና,Idiom,0
+እንዴት ነህ,Literal ,1
+ጥሬ ስጋውን በሉት,Idiom,0
+ማብረድ ቻሉ,Literal ,1
+ውሀ የሚወስደው ሰው አረፋ ይጨብጣል,Proverb,2
+መዋጮዬ ወዴት አለ,Literal ,1
+ለሴት ጠላ ለፈረስ ቆላ,Proverb,2
+ዘጠኝ ሞት መጣ ቢሉት አንዱን ግባ በለው,Proverb,2
+አይኑን ላፈር,Idiom,0
+ልቡን ነሳው,Idiom,0
+ሰማዩ ተደፋብኝ,Idiom,0
+ባል ሳይኖር ውሽማ,Proverb,2
+የአማረኛ ፈሊጦች,Literal ,1
+ማሳሰቢያ ተሰጥቷል,Literal ,1
+ለአህያ ማር አይጥማትም,Proverb,2
+ሆድ ሲያውቅ ዶሮ ማታ,Idiom,0
+እከካም ድሃ,Idiom,0
+የእንጀራ ምጣድ,Literal ,1
+ከራስ ፍላጎት ነው,Literal ,1
+ለጆሮ የሚከብድ ነገር,Idiom,0
+ቆፍጠን በል,Literal ,1
+ትዕግስት ስጠኝ,Literal ,1
+የቁርባን መርሃ ግብር,Literal ,1
+እንድትቀበሉ እናሳውቃለን,Literal ,1
+ስራው ግራ ግራውን ነው,Idiom,0
+ሰው እንደ ቤቱ እንጂ እንደ ጎርቤቱ አያድርም,Proverb,2
+ጳጉሜ ቢለግስ ጎታህን ኣብስ,Proverb,2
+እራስን መጥላት,Literal ,1
+የሚጠራው የትኛውን አካል ነው,Literal ,1
+ሰምቼ አላውቅም,Literal ,1
+እንቅልፍ,Literal ,1
+ሆዱ ሻከረ,Idiom,0
+ህይወትን ሙሉ,Literal ,1
+ቆዳውን አስወደደ,Idiom,0
+ህግ አፈረሰ,Idiom,0
+አይጥና ድመት,Idiom,0
+አዘጋጅቼ ነበር,Literal ,1
+አውራ መንገድ,Literal ,1
+የአካባቢ ትውስታ,Literal ,1
+እሳት ካየው ምን ለየው,Proverb,2
+ጎመን በስጋ,Literal ,1
+ለመግለፅ እሱ አልቻለም,Literal ,1
+ፍትሀዊነት የጎደለዉ,Literal ,1
+የሰላም ሌባ ነው,Literal ,1
+ምርጫው,Literal ,1
+ከፈሱ የተጣላ,Idiom,0
+ጸሀይ ወጣ,Idiom,0
+ብርቱካን ልቁረጥልህ,Literal ,1
+የኮሶ ራት,Idiom,0
+ቆቡን ጣለ,Idiom,0
+የክፉ ሰው ተዝካር ውሀ ያስወስዳል በህዳር,Proverb,2
+ቅልጥም ነጨ,Idiom,0
+ስልጠና መስጠት,Literal ,1
+ሁለቱን የተመኘ አንዱንም አላገኝ,Proverb,2
+በገዛ እጁ እባብ ጠመጠመ,Idiom,0
+ከፍተኛ,Literal ,1
+ታታሪ ሰራተኛ,Literal ,1
+ሴቶች በግፍ በጭካኔ የተደፈሩበት,Literal ,1
+ሽርሞ ለሽርሞ,Idiom,0
+እጀ ስንኩል,Idiom,0
+አስክስ አለብኝ,Idiom,0
+ያህያ እንግዳ የጅብ አራት ነው,Proverb,2
+አለልክ,Idiom,0
+እግሩ ቀለለ,Idiom,0
+ማህተመ ድንግልና,Idiom,0
+ጉዳቱ ምንድነው,Literal ,1
+ቂጡን ጣለ,Idiom,0
+ጨለማ,Literal ,1
+ሳብ ረገብ,Idiom,0
+ሲስሟት እንቢ ብላ ሲጎትቷት,Proverb,2
+ጊዜ ጣለው,Idiom,0
+የስራ ልምድ,Literal ,1
+በድንገት ሀቅ ብሎ ቀረ,Idiom,0
+ይህን የሰራው  የኔው ጉድ ነው,Idiom,0
+አሳቂ ገንፎ ከእራቴ ተርፎ,Proverb,2
+ራሱን አዋረደ,Idiom,0
+አማችና ቂጥ ትርፍ ነው,Proverb,2
+በመሄድ,Literal ,1
+ሳይሆን የምንገነዘበዉ,Literal ,1
+አስተዋይነት,Literal ,1
+ህግ አዉጭ,Literal ,1
+ከፍቶኝ ነበር እንዳላኮርፍ,Literal ,1
+ተማክረው የፈሱት ፈስ አይሸትም,Idiom,0
+ሰላማውያንን እየገፉ ሰላምን የሚሹ ተቋማት,Literal ,1
+አፈፍ አለ,Idiom,0
+ተናካሽ ውሻ የጅብ መቋደሻ,Proverb,2
+አብሮ ሳቀ,Idiom,0
+ቅርሻ ቅርሻ አለ,Idiom,0
+ከፈረሱ በፊት ጋሪው,Proverb,2
+በበጎ ቃል,Literal ,1
+አይኑ ተንከራተተ,Idiom,0
+በህልም,Literal ,1
+ትልቅ እና ታናሽ,Literal ,1
+አያድሩበት ቤት አያምሻሹበት,Proverb,2
+ስድ አደግ,Idiom,0
+ዘር ከልጓም ይጠቅሳል,Proverb,2
+ሽማግሌ,Literal ,1
+የአፍ እላፊ,Idiom,0
+ደፋ ቀና እንላለን,Literal ,1
+ፊትህን አልየው,Idiom,0
+መሬቱ ታርዷል,Idiom,0
+አሀዝ የሌለው,Idiom,0
+ምግብ ማስቀረት,Literal ,1
+መካሪ የሌለው ንጉስ አንድ አመት አይነግስ,Proverb,2
+መላ መታ,Idiom,0
+የጋራ እሴት,Literal ,1
+ሴተ ላጤ,Idiom,0
+እቅድዎን ያሳካ ሰው ፈልጉ,Literal ,1
+ጭቃ አፍ,Idiom,0
+ሀምሳ ሎሚ ለአንድ ሰው ሸክሙ ለሀምሳ ሰው ጌጡ,Proverb,2
+ግድግዳውን አሳምሮ ሰራው,Literal ,1
+ሾላ በድፍን,Idiom,0
+ለሰው ልጅ ፍጆታ,Literal ,1
+እንዴት እረስሃለሁ,Literal ,1
+የትምህርት ማህበረሰብ,Literal ,1
+ጅብ እንኳን ጓደኛውን ይጣራል,Proverb,2
+አፋ ቅቤ ልቡ ጩቤ,Proverb,2
+ሀገራችን ኢትዮጵያ,Literal ,1
+ቅጥብ,Idiom,0
+በዓላቶችና ጎጅ ሱሶች,Literal ,1
+እስከምትደርስበት,Literal ,1
+ገጣሚ ሰው,Literal ,1
+የህሊና ማዕድ ናት,Literal ,1
+ደም ግባት,Idiom,0
+በእግዚአብሔር ስም እንማፀናለን,Literal ,1
+ተልባ ቢንጫጫ ባንድ ሙቀጫ,Proverb,2
+ከቁንጫ ሌጦ ማውጣት ያውቃል,Idiom,0
+ነውር ጌጡ,Idiom,0
+የምድር አጫዋች,Idiom,0
+ልቡ አበጠ,Idiom,0
+ጉባኤ ምን አለ,Literal ,1
+ልበ ጥኑ,Idiom,0
+ሁሉ አማረሽን ገበያ አታውጧት,Idiom,0
+ቂጡ የቆሰለ ውሻ አንደልቡ አይጮህም,Proverb,2
+እሺ ይበልጣል ከሺ,Idiom,0
+የስኬት ጉዞ,Literal ,1
+ጀማሪ ይጥፋ ሰካራም ይትፋ,Proverb,2
+ጀምሮ ይጨርሳል አልሞ ይተኩሳል,Proverb,2
+ቤት ሰረሰረ,Idiom,0
+ነፍስ አውጭ,Idiom,0
+ቸር እግር ሄደ,Idiom,0
+ለሺ ፍልጥ ማሰሪያው ልጥ,Proverb,2
+ውሻ ምን አገባት እርሻ,Proverb,2
+ከሁለት ያጣ ጎመን,Idiom,0
+አህያ ሲግጥ ደብተራ ሲያላግጥ ይሞታል,Proverb,2
+ደም ደም አለው,Idiom,0
+አሚን ሚስት,Idiom,0
+በጎ ፍቃደኝነት,Literal ,1
+አላፊ ጠፊ,Idiom,0
+ከሰው ስህተት ከብረት ዝግት አይጠፋም,Proverb,2
+ረዥም ጦር ባይወጉበት ያስፈራሩበ,Proverb,2
+የሚሉሽን በሰማሽ ገበያም ባልወጣሽ,Proverb,2
+በአነስተኛ ካርቶን,Literal ,1
+እያጣራ,Literal ,1
+አመል ነሳ,Idiom,0
+ነፋስ ሲነሳ እሳት አይጫርም,Proverb,2
+እንዲለዩ እንመክራለን,Literal ,1
+ደሙ እንደ ፈሰሰ ቀረ,Idiom,0
+ቃል በቃል,Idiom,0
+ግምባሩን አኮማተረ,Idiom,0
+መድሀኒቱ ረከሰ,Idiom,0
+የውሃ ቀን,Literal ,1
+የተቀቀለ ድንች,Literal ,1
+አህያውን ፈርቶ ዳውላውን,Proverb,2
+በለሚ ኩራ,Literal ,1
+ሀዘን ሸነቆተው,Idiom,0
+እናትህማ መርቀውሃል,Literal ,1
+አገር የለም,Literal ,1
+በሰጡበት ዕለት,Literal ,1
+በጨጓራህ ይቆረባል,Idiom,0
+ልጅ ሳይመጣ,Literal ,1
+የመረጥከውን ስቃይ,Literal ,1
+መወሰን,Literal ,1
+ሊንክ,Literal ,1
+ራስን ማጥፋት,Literal ,1
+ጎጃም አዘነ,Literal ,1
+ተክለ ሀይማኖት,Literal ,1
+ብትሰሩት የተሻለ ነው,Literal ,1
+እጁ ጣለው,Idiom,0
+የውስጥ ልብስ,Idiom,0
+ረገጠ,Idiom,0
+አምጦ ተናገረ,Idiom,0
+ነገረ ሰሪ,Idiom,0
+እጄን በቆረጠኝ,Idiom,0
+ማንቆርቆሪያ አፍንጫ,Idiom,0
+ትልቁ ዳቦ ሊጥ ሆነ,Idiom,0
+መናገር ሳያስቡ ምላስ መሳብ ሳያልሙ,Proverb,2
+አድማ መታ,Idiom,0
+ለቲክቫህ ኢትዮጵያ,Literal ,1
+ባለቤቷን ያመነች በግ ላቷን ውጭ ታሳድራለች,Proverb,2
+የአባትነት ምክራችንን እናስተላልፋለን,Literal ,1
+የእናት ሞትና የድንጋይ መቀመጫ እያደር ይቆረቁራል,Proverb,2
+አጋጣሚ መጠቀም አለበት,Literal ,1
+ፎቶ ኮፒ,Literal ,1
+ቤት ሞላ,Idiom,0
+ፊቷ ያምራል,Literal ,1
+ህዳር መማረሪያ ሰኔ መቃጠሪያ,Proverb,2
+አንዳንድ ነገር,Literal ,1
+ባሕር ዳር ዩኒቨርሲቲ,Literal ,1
+በአጭር ተቀጠፈ,Idiom,0
+ራስ ከዋለበት እፍር ይሰበሰባል,Proverb,2
+ነገር አረገዘ,Idiom,0
+ዘመን ያነሳው ቅል ድንጋይ ይሰብራል,Proverb,2
+ደም ካልፈሰሰ ስርየት የለም,Proverb,2
+ገንዘቡን ረጨ,Idiom,0
+ፊታዉራሪ መሸሻ,Literal ,1
+ከዘጠኝ አመታት በላይ,Literal ,1
+አሳልፎ ሰጠ,Idiom,0
+ፅሁፎችን,Literal ,1
+ፈር ተደርገው,Literal ,1
+ከባድ ጊዜ,Literal ,1
+እነሱ ባያዩ,Literal ,1
+የደላው ሙቅ ያኝካል,Proverb,2
+የለመነ ያገኛል የነገደ ያተርፋል,Proverb,2
+ጉጠት አፍ,Idiom,0
+ትናንት,Literal ,1
+በየቦታው,Literal ,1
+ዘመድን የሚወጉበት ጦር ጅንፎው አይለቀቅም,Proverb,2
+አረግ መዘዘ,Idiom,0
+የእህል ክፉ አጃ የሳር ክፋ ሙጃ የነገር ክፋ እንጃ,Proverb,2
+የውስጤ እውነት አመለጠኝ,Literal ,1
+ሲውል ሲያድር,Literal ,1
+መቼ መጣሽ ሙሽራ መቸ ቆረጠምሽ ሽንብራ,Proverb,2
+ከክፉ ጓደኞቻችን ልንማር እንችላለን,Literal ,1
+ራስ ላይ ወጣ,Idiom,0
+እድሜው ተሰነከለ,Idiom,0
+ምንም የለም,Literal ,1
+ተስፋ ስጠ,Literal ,1
+አናዘዘው,Idiom,0
+ፍልፍል ጥርስ,Idiom,0
+የቤት እቃ,Literal ,1
+አይን በቁና ይሰፍራል,Idiom,0
+አባ ጥረገው,Idiom,0
+መጨረሻቸው ጥፋት ነው,Literal ,1
+መንገድ እንጓዝ,Literal ,1
+ጠላትህን ውሀ ሲወስደው እንትፍ ብለህ ጨምርበት,Proverb,2
